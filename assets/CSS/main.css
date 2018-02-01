@@ -1,0 +1,126 @@
+body{background:url( http://i46.beon.ru/78/66/1996678/78/81367978/1.png);}
+.menu h1{
+	padding-bottom: -30px;
+}
+.menu h3{
+	text-align: center;
+	padding-top: -20px;
+}
+
+.gor {
+list-style: none; /*убираем маркеры списка*/
+  margin-right: -20px; /*убираем верхнее и нижнее поле, равное 1em*/
+  margin-left: 35px;
+  padding-left: 0px; /*убираем левый отступ, равный 40px*/
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color: white;
+  overflow: hidden;
+  background: none;
+}
+
+.gor p {
+	text-align: right;
+}
+.gori {
+	float: left;
+	padding-right: 340px;
+	padding-left: 180px;
+	
+	  float: left;
+	}
+.l1 {
+	display: inline;
+}
+.india p{
+text-align: center;
+color: white;
+text-decoration: none;
+}
+.india {
+max-width: 200px;
+margin-left: 220px;
+margin-right: 100px;
+padding-top: 45px;
+float: left;
+text-decoration: none;
+
+}
+
+.nepal p{
+text-align: center;
+color: white;
+text-decoration: none;
+
+}
+.nepal {
+max-width: 200px;
+margin-right: 100px;
+padding-top: 45px;
+float: left;
+}
+
+.tibet p{
+text-align: center;
+color: white;
+text-decoration: none;
+
+}
+.tibet {
+max-width: 200px;
+margin-right: 100px;
+padding-top: 45px;
+float:left;
+}
+.l2 {
+	display: inline;
+}
+
+.bhutan p{
+text-align: center;
+color: white;
+text-decoration: none;
+}
+
+.bhutan {
+max-width: 200px;
+margin-left: 220px;
+margin-right: 100px;
+padding-top: 50px;
+float: left;
+}
+
+
+.lanka p {
+text-align: center;
+color: white;
+text-decoration: none;
+
+}
+
+.lanka{
+max-width: 200px;
+margin-right: 100px;
+padding-top: 50px;
+float: left;}
+
+.mal p{
+text-align: center;
+color: white;
+text-decoration: none;
+
+}
+.mal {
+max-width: 200px;
+margin-right: 100px;
+padding-top: 50px;
+float:left;
+}
+
+.footer p {
+	margin-left: 500px;
+	color:white;
+}
+.footer {
+float: left;
+}
